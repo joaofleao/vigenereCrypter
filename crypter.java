@@ -66,6 +66,7 @@ public class crypter {
                     return i;
             }
         }
+
         return 0;
     }
 
